@@ -3,6 +3,6 @@
 
 
 globalkey@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/globalkey/-/globalkey-1.0.3.tgz#d4a9dcf9d2012935c95a16b68ba51640d5e61105"
-  integrity sha512-k45G5OzpZfK5NdZ8GHrNRnbVh4RxTCj++Hz6tU39NPkWaM2XmH+85VQXXsmF94gc98K6VscXXbH5fcwJAd2BSw==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/globalkey/-/globalkey-1.0.4.tgz#f1a4fba5d59ad2a9b4f068829d72e821a6e46ba4"
+  integrity sha512-S6bm2B0j0ksTns1VmVQrcAmSyxwNTDQnCHa+zo5Ado4IVANnU1p6SMTws0sNRGP6OKn1kHIuoA78g7vjZDnQww==
