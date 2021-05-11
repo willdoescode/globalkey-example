@@ -6,9 +6,11 @@ globalkey.start(
       console.log('You switched windows');
     }
   },
-  up => {
-    console.log(`${up} was released`);
-  }
+  _up => {}
 );
 
 console.log('Globalkey starts a non blocking thread so you can see this message after calling start');
+
+console.log('You can stop globalkey at any time with globalkey.stop()');
+
+setTimeout(() => globalkey.stop(), 3000);
